@@ -2905,5 +2905,19 @@
     {"name":"arrow.app.js","url":"app.js"},
     {"name":"arrow.img","url":"icon.js","evaluate":true}
   ]
+},
+{"id":"lunchtracker",
+  "name":"Lunch Tracker With Way Awareness",
+  "shortName":"Lunch Tracker",
+  "icon":"lunchtracker.png",
+  "version":"0.01",
+  "description": "Timer let you define lunch duration. It takes to account duration for traveling",
+  "readme":"README.md",
+  "tags": "timer",
+  "allow_emulator":true,
+  "storage": [
+    {"name":"lunchtracker.app.js","url":"app.js"},
+    {"name":"lunchtracker.img","url":"app-icon.js","evaluate":true}
+  ]
 }  
 ]
